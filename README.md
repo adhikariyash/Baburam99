@@ -23,7 +23,7 @@
 <h3 align="center" style="font-size: 1.5rem; font-weight: bold; margin-top: 2rem;">📫 Let's Connect!</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank" style="margin: 0 0.5rem;">
+  <a href="https://www.linkedin.com/in/baburam-adhikari-a0b981291/" target="_blank" style="margin: 0 0.5rem;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://x.com/YashAdhika19640" target="_blank" style="margin: 0 0.5rem;">
