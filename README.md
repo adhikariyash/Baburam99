@@ -1,16 +1,15 @@
-## Hi there 👋
+I'm a passionate front-end developer from Nepal, currently 19 years old. My journey in web development has equipped me with skills in:
 
-<!--
-**Baburam99/Baburam99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    HTML
+    CSS
+    JavaScript
+    React
+    Tailwind CSS
 
-Here are some ideas to get you started:
+I'm currently diving deeper into back-end development with Express.js and MongoDB to become a full-stack developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love building responsive and dynamic web applications, and I'm always eager to learn and take on new challenges.
+Let's Connect!
+
+    LinkedIn
+    Twitter
