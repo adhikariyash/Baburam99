@@ -1,14 +1,32 @@
-👋 Hi, I'm Baburam Adhikari also Known as Yash!
- I'm a passionate front-end developer from Nepal, currently 19 years old. My journey in web development has equipped me with skills in:
+<h1 align="center" style="font-size: 2.25rem; font-weight: bold; margin-bottom: 1rem;">👋 Hi, I'm Baburam Adhikari (Yash)!</h1>
 
-   <li>HTML</li>
-   <li>CSS</li>
-   <li>JavaScript</li>
-   <li>React</li>
-   <li>Tailwind CSS</li>
+<p align="center" style="margin-bottom: 1rem;">
+  I'm a passionate front-end developer from Nepal, currently 19 years old. My journey in web development has equipped me with skills in:
+</p>
 
-I'm currently diving deeper into back-end development with Express.js and MongoDB to become a full-stack developer.
+<p align="center" style="margin-bottom: 1rem;">
+  <span style="font-weight: bold; padding: 0.25rem;">HTML</span> • 
+  <span style="font-weight: bold; padding: 0.25rem;">CSS</span> • 
+  <span style="font-weight: bold; padding: 0.25rem;">JavaScript</span> • 
+  <span style="font-weight: bold; padding: 0.25rem;">React</span> • 
+  <span style="font-weight: bold; padding: 0.25rem;">Tailwind CSS</span>
+</p>
 
-I love building responsive and dynamic web applications, and I'm always eager to learn and take on new challenges.
-Let's Connect!
-<a href="https://x.com/YashAdhika19640" target="_blank">X</a>
+<p align="center" style="margin-bottom: 1rem;">
+  I'm currently diving deeper into back-end development with <span style="font-weight: bold; padding: 0.25rem;">Express.js</span> and <span style="font-weight: bold; padding: 0.25rem;">MongoDB</span> to become a full-stack developer.
+</p>
+
+<p align="center" style="margin-bottom: 1rem;">
+  I love building responsive and dynamic web applications, and I'm always eager to learn and take on new challenges.
+</p>
+
+<h3 align="center" style="font-size: 1.5rem; font-weight: bold; margin-top: 2rem;">📫 Let's Connect!</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank" style="margin: 0 0.5rem;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/your-profile" target="_blank" style="margin: 0 0.5rem;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>
